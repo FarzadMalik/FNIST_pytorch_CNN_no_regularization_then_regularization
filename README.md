@@ -1,6 +1,6 @@
 # FNIST_pytorch_CNN_no_regularization_then_regularization
 
-```markdown
+
 # Fashion MNIST Classification with Regularization
 
 This repository contains code for training a Convolutional Neural Network (CNN) to classify the Fashion MNIST dataset using PyTorch. The model is trained first without regularization and then with regularization techniques such as Batch Normalization and Dropout to improve generalization and reduce overfitting.
